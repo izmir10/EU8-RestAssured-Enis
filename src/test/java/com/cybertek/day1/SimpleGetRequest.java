@@ -1,4 +1,4 @@
-package com.cybertek.Day1;
+package com.cybertek.day1;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
